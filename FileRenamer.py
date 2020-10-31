@@ -44,4 +44,3 @@ for O,N in zip(old,new):
         exit()
     finally:
         print(O,'-->',N,'成功！')
-        input()
